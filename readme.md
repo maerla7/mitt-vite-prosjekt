@@ -4,9 +4,9 @@
 
 - Opprettet vite-siden
 - Fjernet demo innhold
-- Opprettet prosjektet i VD Code
-- Laget readme til GitHub
-- Finne riktig mappe i teminal og bruke terminal
+- Opprettet prosjektet i VS Code
+- Laget README til GitHub
+- Finne riktig mappe i teminal og bruke terminal gjennom hele prosjektet for å f.eks. skrive README
 
 ## For å utføre prosjektet måtte jeg:
 
