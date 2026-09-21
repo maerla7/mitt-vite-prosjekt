@@ -22,6 +22,6 @@
 
 * Nettsiden burde åpnes via linken:http://localhost:5174/ eller addressen som vises i terminalen
 
-> Takk for meg
+> Takk for meg!
 > Maja Erlandsen-Sommerseth
-> IT og Ledelse Noobie
+> IT og Ledelse
