@@ -8,11 +8,20 @@
 - Laget README til GitHub
 - Finne riktig mappe i teminal og bruke terminal gjennom hele prosjektet for å f.eks. skrive README
 
+## Prosjektet
+
+- Prosjektet er en nettside
+
 ## For å utføre prosjektet måtte jeg:
 
 - Ha Node.js og pnpm installert
-- Vite at prosjektet er en html nettside
-- Installere pnpm
-- For å starte utviklingsserveren skriver man _pnpm dev_ i terminalen
+  - Innstaller prosjektet ved å skrive:
+    - pnpm install
+  - Start utviklingsserveren ved å skrive:
+    - pnpm dev
 
-* Nett siden burde åpnes via linken:http://localhost:5174/ eller addressen som vises i terminalen
+* Nettsiden burde åpnes via linken:http://localhost:5174/ eller addressen som vises i terminalen
+
+> Takk for meg
+> Maja Erlandsen-Sommerseth
+> IT og Ledelse Noobie
