@@ -24,4 +24,4 @@
 
 > Takk for meg!
 > Maja Erlandsen-Sommerseth
-> IT og Ledelse
+> IT og Ledelse pro
